@@ -1,0 +1,81 @@
+body{
+    background-color: bisque; 
+}
+a{
+    border-style: double;padding: 3px;border-radius: 15px;
+    color: black;background-color:dimgrey;
+}
+a:hover{background-color:cornflowerblue;}
+#dotted{
+border-style: dotted;
+}
+#dashed{
+border-style: dashed;
+}
+#solid{
+border-style: solid;
+border-width: 4px;
+}
+.double{
+    border-style: double;
+    border-width: 6px;
+    border-color:yellowgreen;
+}
+#groove{
+border-style: groove;
+}
+.ridge{
+border-style: ridge;
+}
+.inset{
+border-style: inset;
+}
+.outset{
+border-style: outset;
+}
+.none{
+border-style: none;
+}
+.hidden{
+border-style: hidden;
+}
+.mix{
+    color:cadetblue ;
+    border-top-style: solid;
+    border-right-style: double;
+    border-left-style: dotted;
+    border-bottom-style: dashed ;
+    border-width: 3px;
+    border-color: crimson;
+}
+img{
+    border-radius: 12px;
+    margin:75px ;
+}
+.div{
+    margin: auto;
+    border: 3px double darkkhaki;
+    border-width: 25px;
+    border-radius: 4px;
+    padding: 40px;
+    width: 400px;
+    background-color: aquamarine;
+    text-align: justify;
+}
+.div{
+    outline: 3px solid black;
+   outline-offset: 13px;
+   padding: 68px;
+   text-indent: 50px;
+   text-transform: uppercase;
+
+}
+#test{
+    text-transform: uppercase;
+    text-shadow: 3px 4px 5px blueviolet;
+    text-decoration: line-through underline overline;
+    font-size:larger;
+    line-height: 30px;
+    font-family:brush script mt;
+  
+}

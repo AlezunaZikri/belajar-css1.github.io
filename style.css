@@ -1,0 +1,27 @@
+#biasa{
+    color:red;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+#halo1 {
+    color :tomato;
+}
+.iron {
+    color: darkmagenta;
+}
+body {
+    background-image: url(https://i.pinimg.com/564x/6d/0e/9a/6d0e9a9332e2f4cfaa77a5bd6ad1f52f.jpg);
+   background-size: cover;
+   background-attachment: fixed;
+}
+h1 {
+    color: blueviolet;
+}
+h4.sama {
+background-color:blueviolet ;
+color: aliceblue;
+}
+h5,h4 {
+    background-color: black;
+    color: aquamarine;
+}
